@@ -1,5 +1,3 @@
-Initialized empty Git repository in /Users/zhongqingbiao/Documents/Codex/2026-07-13/shi/profile-overview/.git/
-
 每隔一段时间，总有人在群里发出同一条消息——"我的搬瓦工连不上了。"
 
 然后有经验的人就会问："IP 被封了吗？"
@@ -168,4 +166,3 @@ IP 更换完成后，你会收到通知。用新 IP 重新连接 VPS，或再次
 如果你正处于"又被封了"的状态，先冷静检测，确认情况，然后按步骤处理。需要新买套餐或者查看当前所有方案，可以直接访问：
 
 👉 [搬瓦工官网——查看所有在售套餐](https://bwh81.net/aff.php?aff=83193)
-
