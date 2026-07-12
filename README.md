@@ -166,3 +166,14 @@ IP 更换完成后，你会收到通知。用新 IP 重新连接 VPS，或再次
 如果你正处于"又被封了"的状态，先冷静检测，确认情况，然后按步骤处理。需要新买套餐或者查看当前所有方案，可以直接访问：
 
 👉 [搬瓦工官网——查看所有在售套餐](https://bwh81.net/aff.php?aff=83193)
+
+---
+
+## 十、更多搬瓦工热门问题
+
+- [搬瓦工购买教程：注册、选套餐、付款与开通检查](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/buy-guide.html)
+- [搬瓦工优惠码怎么用？结算前先看这 5 点](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/coupon-code.html)
+- [搬瓦工可以退款吗？30 天退款条件与申请步骤](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/refund-policy.html)
+- [搬瓦工续费会自动扣款吗？账单、到期与续费周期](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/renewal-guide.html)
+- [搬瓦工流量用完怎么办？会扣费还是停机？](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/bandwidth-limit.html)
+- [哪些搬瓦工套餐支持免费换 IP？购买前这样确认](https://jiamizhongshifu.github.io/bandwagonhost-guide/articles/free-ip-change.html)
