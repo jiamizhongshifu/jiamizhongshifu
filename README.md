@@ -56,7 +56,7 @@ https://kiwivm.64clouds.com/VPS-ID/main-exec.php?mode=blacklistcheck
 
 登录搬瓦工账号后，访问换 IP 专属页面（建议直接搜索或通过 KiwiVM 后台跳转）。
 
-👉 [点击进入搬瓦工官网办理换 IP](https://bwh81.net/aff.php?aff=83193)
+👉 [点击进入搬瓦工官网办理换 IP](https://bandwagonhost.com/aff.php?aff=83193)
 
 ### Step 2：找到需要换 IP 的 VPS 实例
 
@@ -114,13 +114,13 @@ IP 更换完成后，你会收到通知。用新 IP 重新连接 VPS，或再次
 
 | 套餐系列 | 流量 | 内存 | 硬盘 | 带宽 | 价格 | 线路 | 购买链接 |
 |---|---|---|---|---|---|---|---|
-| **KVM 入门套餐** | 1TB/月 | 1GB | 20GB SSD | 1Gbps | $49.99/年 | 163 骨干网（CN2 GT） |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=57) |
-| **CN2 GIA-E（1TB）** | 1TB/月 | 2GB | 40GB SSD | 2.5Gbps | $49.99/季，$169.99/年 | 三网 CN2 GIA/CMIN2/CUP |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=87) |
-| **CN2 GIA-E（2TB）** | 2TB/月 | 4GB | 80GB SSD | 2.5Gbps | $89.99/季，$299.99/年 | 三网 CN2 GIA/CMIN2/CUP |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=88) |
-| **香港 CN2 GIA（500GB）** | 500GB/月 | 2GB | 40GB SSD | 1Gbps | $89.99/月，$899.99/年 | 香港 CN2 GIA 三网直连 |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=104) |
-| **香港 CN2 GIA（1TB）** | 1TB/月 | 4GB | 80GB SSD | 2.5Gbps | $155.99/月，$1559.99/年 | 香港 CN2 GIA 三网直连 |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=105) |
-| **日本东京 CN2 GIA（500GB）** | 500GB/月 | 2GB | 40GB SSD | 1.2Gbps | $89.99/月，$899.99/年 | 日本 CN2 GIA 三网直连 |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=108) |
-| **日本东京 CN2 GIA（1TB）** | 1TB/月 | 4GB | 80GB SSD | 2.5Gbps | $155.99/月，$1559.99/年 | 日本 CN2 GIA 三网直连 |  [立即购买](https://bwh81.net/aff.php?aff=83193&pid=109) |
+| **KVM 入门套餐** | 1TB/月 | 1GB | 20GB SSD | 1Gbps | $49.99/年 | 163 骨干网（CN2 GT） |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=44&billingcycle=annually) |
+| **CN2 GIA-E（1TB）** | 1TB/月 | 2GB | 40GB SSD | 2.5Gbps | $49.99/季，$169.99/年 | 三网 CN2 GIA/CMIN2/CUP |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually) |
+| **CN2 GIA-E（2TB）** | 2TB/月 | 4GB | 80GB SSD | 2.5Gbps | $89.99/季，$299.99/年 | 三网 CN2 GIA/CMIN2/CUP |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=88&billingcycle=annually) |
+| **香港 CN2 GIA（500GB）** | 500GB/月 | 2GB | 40GB SSD | 1Gbps | $89.99/月，$899.99/年 | 香港 CN2 GIA 三网直连 |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=95&billingcycle=annually) |
+| **香港 CN2 GIA（1TB）** | 1TB/月 | 4GB | 80GB SSD | 2.5Gbps | $155.99/月，$1559.99/年 | 香港 CN2 GIA 三网直连 |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=96&billingcycle=annually) |
+| **日本东京 CN2 GIA（500GB）** | 500GB/月 | 2GB | 40GB SSD | 1.2Gbps | $89.99/月，$899.99/年 | 日本 CN2 GIA 三网直连 |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=108&billingcycle=annually) |
+| **日本东京 CN2 GIA（1TB）** | 1TB/月 | 4GB | 80GB SSD | 2.5Gbps | $155.99/月，$1559.99/年 | 日本东京 CN2 GIA 三网直连 |  [立即购买](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=109&billingcycle=annually) |
 
 > **备注：**
 > - 价格以官网实际为准，可使用优惠码 **BWHCGLUKKB**（全场循环约 6.77% 折扣）
@@ -141,7 +141,7 @@ IP 更换完成后，你会收到通知。用新 IP 重新连接 VPS，或再次
 
 如果你发现自己一年之内换了好几次 IP，每次 $8.79 加起来已经快赶上一个 CN2 GIA-E 套餐的价格了，那真的是时候重新算一算账了。
 
-👉 [查看搬瓦工 CN2 GIA-E 套餐详情](https://bwh81.net/aff.php?aff=83193&pid=87)
+👉 [查看搬瓦工 CN2 GIA-E 套餐详情](https://bandwagonhost.com/aff.php?aff=83193&a=add&pid=87&billingcycle=annually)
 
 ---
 
@@ -165,7 +165,7 @@ IP 更换完成后，你会收到通知。用新 IP 重新连接 VPS，或再次
 
 如果你正处于"又被封了"的状态，先冷静检测，确认情况，然后按步骤处理。需要新买套餐或者查看当前所有方案，可以直接访问：
 
-👉 [搬瓦工官网——查看所有在售套餐](https://bwh81.net/aff.php?aff=83193)
+👉 [搬瓦工官网——查看所有在售套餐](https://bandwagonhost.com/aff.php?aff=83193)
 
 ---
 
